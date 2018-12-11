@@ -22,12 +22,12 @@ Stats (Old School Hack)
     Cunning (CNG)
 
 Races
-        Race        Stat    Bonus                           Weakness
+|Roll|Race|Stat|Bonus|Weakness|
     1.  Manling     N/A     N/A                             N/A
     2.  Deerling    AWR
     3.  Antling     COM
     4.  Spiderling  CNG     Can secrete 30' of rope/day
-    5.  Boarling    BRN     Natural tusk weapons            
+    5.  Boarling    BRN     Natural tusk weapons
     6.  Houndling   CHA     Extraordinary sense of smell
 
 Character Creation
