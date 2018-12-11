@@ -1,10 +1,10 @@
 # OSR.txt
 
-##Introduction
+## Introduction
 
 There is nothing new or special in this, just a collection of cool OSR rules and concepts that I want to use someday.
 
-##Acknowledgements
+## Acknowledgements
 
 - Old School Hack (oldschoolhack.net)
 - Goblin Punch (goblinpunch.blogspot.com)
