@@ -22,6 +22,8 @@
 
 Risk Dice represent everything from a characters magical prowess, to the weight of a sack of gold, to the flickering firelight of a torch, to the comings and goings of a dungeon's inhabitants. Risk Dice vary from d12 to d4. Generally, the higher the risk die the better it is for the characters.
 
+Risk Dice are represented by the notation `d{Current Risk Dice Size} / r{Maximum Risk Dice Size}` for items with a stated risk die like armor or weapons or `r{Current Risk Dice Size}` for items that do not have a maximum. For example, a slightly broken long sword would appear on a character sheet `Long sword d6/r8` while a large bag of gold coins would be `Gold Sovereigns r10`. 
+
 When a Risk Die comes up with a value of 1, 2, or 3 it "steps down" and becomes the next smallest die or nothing at all. A result of 3 is a lucky break, but a 1 or 2 can mean additional consequences depending on the situation.
 
 d12 > d10 > d8 > d6 > d4 > Nothing
@@ -36,8 +38,7 @@ The caveat to all rules is "...at the referee's discretion".
   All characters begin with the following
 
   - Hit Dice (HD): 1d6
-  - Specialization Dice (SD): 0d6
-  - Magic Dice (MD): 0d6
+  - Magic Dice (MD): 1d6
 
   1. Roll for or choose your Race.
   2. Roll 3d6 for each of your Stats in order.
@@ -48,11 +49,11 @@ The caveat to all rules is "...at the referee's discretion".
 | d6 | Character Creation |
 |---| ---|
 |1  | Step up your HD.   |
-|2  | Write down or roll a Special Ability and gain a Specialization Die.   |
+|2  | Write down or roll a Special Ability with a d6 Risk Die  |
 |3  | Write down or roll two Spells and gain a Magic Die.   |
 |4  | Gain a Hit Die. |
 |5  | Write down in one or two words or roll a Trait (occupation, affiliation, or background). |
-|6  |Choose or roll for one Stat, then roll 3d6. Compare the result to the chosen Stat and keep the higher number.  |
+|6  | Choose or roll for one Stat, then roll 3d6. Compare the result to the chosen Stat and keep the higher number.  |
 
   6. Roll your HD for your starting (Don't Get) Hit Points.
   7. Choose or roll for equipment, weapons, and armor.
